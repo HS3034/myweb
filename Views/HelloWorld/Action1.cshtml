@@ -1,0 +1,38 @@
+@model IEnumerable<Movie>
+@using System.Globalization
+@{
+
+}
+
+<H1> Action</H1>
+
+<p>@ViewData["CurentDate"]</p>
+
+<p>@ViewData["Tomorow"]</p>
+
+@* @(List<Movie>) ViewData["Mydata"][0].id *@
+<html>
+
+    <body>
+        @{
+            var myDate = ViewData["CurrentDate"] as DateTime?;
+        }
+        The Next date from the URL Is @myDate.Value.AddDays(1).ToString("dd-MM-yyyy",DateTimeFormatInfo.InvariantInfo)
+        <br>
+
+
+ <ol>
+
+        
+        @foreach (var item in Model)
+        {
+            <li>@Html.DisplayFor(m => item.id) : @Html.DisplayFor(m=> item.name ) : @Html.DisplayFor(m =>item.year)</li>
+        }
+        
+
+
+    </ol>
+
+    </body>
+</html>
+   

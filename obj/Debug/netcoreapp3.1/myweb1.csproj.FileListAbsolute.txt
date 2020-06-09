@@ -1,0 +1,399 @@
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.exe
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.deps.json
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.runtimeconfig.json
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.runtimeconfig.dev.json
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.pdb
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.Views.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\myweb1.Views.pdb
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.csprojAssemblyReference.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.AssemblyInfoInputs.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.AssemblyInfo.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.csproj.CoreCompileInputs.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorAssemblyInfo.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorAssemblyInfo.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.TagHelpers.input.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.TagHelpers.output.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorCoreGenerate.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorTargetAssemblyInfo.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorTargetAssemblyInfo.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.Views.pdb
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\staticwebassets\myweb1.StaticWebAssets.Manifest.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\staticwebassets\myweb1.StaticWebAssets.xml
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.dll
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.pdb
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.genruntimeconfig.cache
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\myweb1.csproj.CopyComplete
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\welcome.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Action1.cshtml.g.cs
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_Dotnet\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.exe
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.deps.json
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.runtimeconfig.json
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.runtimeconfig.dev.json
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.pdb
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.Views.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\myweb1.Views.pdb
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.csprojAssemblyReference.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.AssemblyInfoInputs.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.AssemblyInfo.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.csproj.CoreCompileInputs.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorAssemblyInfo.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorAssemblyInfo.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.TagHelpers.input.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.TagHelpers.output.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorCoreGenerate.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Action1.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\welcome.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorTargetAssemblyInfo.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorTargetAssemblyInfo.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.Views.pdb
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.csproj.CopyComplete
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\staticwebassets\myweb1.StaticWebAssets.Manifest.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\staticwebassets\myweb1.StaticWebAssets.xml
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.dll
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.pdb
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\myweb1.genruntimeconfig.cache
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Action2.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.csHtml.g.cs
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.exe
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.deps.json
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.runtimeconfig.json
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.runtimeconfig.dev.json
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.pdb
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.Views.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\myweb1.Views.pdb
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.csprojAssemblyReference.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.AssemblyInfoInputs.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.AssemblyInfo.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.csproj.CoreCompileInputs.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorAssemblyInfo.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorAssemblyInfo.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.TagHelpers.input.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.TagHelpers.output.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorCoreGenerate.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Action1.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Action2.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Home\welcome.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.csHtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorTargetAssemblyInfo.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.RazorTargetAssemblyInfo.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.Views.pdb
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.csproj.CopyComplete
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\staticwebassets\myweb1.StaticWebAssets.Manifest.cache
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\staticwebassets\myweb1.StaticWebAssets.xml
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.dll
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.pdb
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\myweb1.genruntimeconfig.cache
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkShop_NetCore\myweb1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\WorkShop_NetCore\myweb1\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
